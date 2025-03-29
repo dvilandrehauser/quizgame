@@ -1,7 +1,7 @@
 # QUIZGAME SERVER
 import socket
 
-print('starting quizgame server')
+print("starting derwin's quizgame server")
 
 # receive a UDP packet
 
