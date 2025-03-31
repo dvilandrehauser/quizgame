@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Date: Mon, 31 Mar 2025 16:47:48 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Last-Modified: Thu, 27 Mar 2025 20:54:41 GMT
+ETag: "50-6315929b3f585"
+Accept-Ranges: bytes
+Content-Length: 80
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+<b>Hello World!</b>
+<br>
+
+<i>Derwin Hauser</i>
+<br>
+
+CIS 320 Niagara University
+
+complete
